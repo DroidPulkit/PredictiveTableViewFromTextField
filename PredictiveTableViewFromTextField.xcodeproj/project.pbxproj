@@ -54,9 +54,10 @@
 		29CF2BFF1F2DE5B700EBA26E /* PredictiveTableViewFromTextField */ = {
 			isa = PBXGroup;
 			children = (
-				29CF2C121F2DE5C600EBA26E /* Additional FIles */,
+				29CF2C151F2DE5E100EBA26E /* Model */,
+				29CF2C141F2DE5D600EBA26E /* View */,
 				29CF2C131F2DE5CF00EBA26E /* Controller */,
-				29CF2C141F2DE5D600EBA26E /* New Group */,
+				29CF2C121F2DE5C600EBA26E /* Additional FIles */,
 			);
 			path = PredictiveTableViewFromTextField;
 			sourceTree = "<group>";
@@ -80,12 +81,19 @@
 			name = Controller;
 			sourceTree = "<group>";
 		};
-		29CF2C141F2DE5D600EBA26E /* New Group */ = {
+		29CF2C141F2DE5D600EBA26E /* View */ = {
 			isa = PBXGroup;
 			children = (
 				29CF2C041F2DE5B700EBA26E /* Main.storyboard */,
 			);
-			name = "New Group";
+			name = View;
+			sourceTree = "<group>";
+		};
+		29CF2C151F2DE5E100EBA26E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
