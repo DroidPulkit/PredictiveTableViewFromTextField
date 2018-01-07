@@ -3,7 +3,7 @@ A table view that will auto predict based on input from text field in Swift
 
 This is a Swift project that was translated from a Ray Wenderlich tutorial from 6+ years ago, blended with a StackOverFlow post from over a year ago that attempted to convert the objective C version to swift.
 
-I have updated the project to work with Swift 3. I had issues with Github so the correct branch to be on is 'updatedVersion'
+I have updated the project to work with Swift 4. 
 
 In the first version I had a prebuilt array of 3 strings. I recieved a few emails suggesting that it was not working, but the issue was that I had started each string with a Captiol letter and the use was starting the string with the lower case.
 
